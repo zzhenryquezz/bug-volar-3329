@@ -2,7 +2,7 @@
 
 - rename ./modules/user/_index.ts to ./modules/user/index.ts
 - run `npm run postinstall`
-- The bug should happen
+- check ./modules/user/components/DeepComponent.vue, and The bug should happen
 
 # Revert the bug
 
